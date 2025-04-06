@@ -1,0 +1,8 @@
+open 10.1.10.4 21
+guest
+anonymous
+dir
+cd Usb2/cityxen/retro-video-effects/monitor-right
+binary
+put prg_files/rvfx-loop.prg
+quit
