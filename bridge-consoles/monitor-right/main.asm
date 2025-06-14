@@ -9,7 +9,6 @@
 #import "constants-local.asm"
 
 .file [name="main.prg", segments="BASIC,PRG,Sprites,Screens,SFX"]
-// .file [name="main.prg", segments=""]
 
 .segment SFX [allowOverlap]
 *=$0900 "SFX KIT"
